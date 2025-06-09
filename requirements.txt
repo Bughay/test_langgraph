@@ -1,0 +1,4 @@
+langchain_deepseek
+dotenv
+langchain_core
+langgraph-prebuilt
